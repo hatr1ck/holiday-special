@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #40606d;
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body{
     width: 20px;
     background: white;
     border-radius: 50%;
-    text-shadow:-12vmax 78vmax 2px white,-102vmax 38vmax 2px white,-22vmax 8vmax 2px white, 0px 0px white, -122vmax 58vmax 2px white, 59vmax -38vmax 0px white, -125vmax -25vmax 2px white, -2vmax 0vmax 2px white, -80vmax 53vmax 3px white, 19vmax -137vmax 0px white, -24vmax 99vmax 0px white, -112vmax 121vmax 0px white, 112vmax 22vmax 3px white, -26vmax -115vmax 1px white, -146vmax 94vmax 3px white, 113vmax -13vmax 3px white, 78vmax -83vmax 0px white, 144vmax 76vmax 3px white, 109vmax -12vmax 1px white, -16vmax 60vmax 2px white, -47vmax -40vmax 3px white, -43vmax -113vmax 3px white, -33vmax -107vmax 2px white, -115vmax -32vmax 1px white, -97vmax 141vmax 0px white, 135vmax 1vmax 2px white, -59vmax 3vmax 1px white, 125vmax 134vmax 2px white, -14vmax -140vmax 1px white, 49vmax -148vmax 2px white, -62vmax -77vmax 1px white, -60vmax 123vmax 2px white, -131vmax 78vmax 0px white, -43vmax 95vmax 2px white, -99vmax 80vmax 2px white, 70vmax 31vmax 3px white, 44vmax -58vmax 0px white, -35vmax -130vmax 0px white, -77vmax 69vmax 3px white, 0vmax 130vmax 1px white, -98vmax 25vmax 2px white, 84vmax -59vmax 2px white, 138vmax -7vmax 1px white, 92vmax -82vmax 1px white, 66vmax -134vmax 3px white, 123vmax -131vmax 3px white, -55vmax -100vmax 0px white, -141vmax 141vmax 2px white, -26vmax 150vmax 2px white, -124vmax -72vmax 2px white, -6vmax -71vmax 1px white, -18vmax 74vmax 1px white, 77vmax -37vmax 0px white, -45vmax -7vmax 3px white, -16vmax 21vmax 3px white, -38vmax 100vmax 1px white, -20vmax 13vmax 3px white, -9vmax -39vmax 2px white, 5vmax 32vmax 0px white, 82vmax 88vmax 1px white, 105vmax 106vmax 2px white, -123vmax -73vmax 0px white, 111vmax 103vmax 1px white, 28vmax 44vmax 3px white, -13vmax -87vmax 0px white, -141vmax -39vmax 2px white, 143vmax -121vmax 3px white, -133vmax 22vmax 0px white, -140vmax -56vmax 2px white, 92vmax -143vmax 0px white, -100vmax 46vmax 2px white, 131vmax -39vmax 2px white, 120vmax 58vmax 1px white, 139vmax -68vmax 1px white, 128vmax 37vmax 0px white, -137vmax -103vmax 1px white, 83vmax -56vmax 0px white, 137vmax 116vmax 2px white, -43vmax 125vmax 0px white, -40vmax -15vmax 2px white, 42vmax 101vmax 2px white, 149vmax -137vmax 3px white, 104vmax -148vmax 0px white, -65vmax 19vmax 2px white, 48vmax 78vmax 3px white, -63vmax 28vmax 1px white, 94vmax -129vmax 1px white, -27vmax 108vmax 0px white, -11vmax 67vmax 1px white, 114vmax 18vmax 2px white, 59vmax 96vmax 1px white, -46vmax -6vmax 1px white, 4vmax 28vmax 0px white, -116vmax -63vmax 1px white, 87vmax -62vmax 2px white, -27vmax 111vmax 1px white, 36vmax -51vmax 3px white, 9vmax -51vmax 3px white, 53vmax -111vmax 0px white, 22vmax -146vmax 0px white, -115vmax -131vmax 2px white, -146vmax 31vmax 0px white, 129vmax 2vmax 0px white, 106vmax 76vmax 2px white, -121vmax 106vmax 2px white, 55vmax -40vmax 1px white, -3vmax 70vmax 1px white, 55vmax -117vmax 1px white, -109vmax 1vmax 2px white, 5vmax 37vmax 0px white, -103vmax -86vmax 1px white, 78vmax 52vmax 3px white, -45vmax -142vmax 0px white, 113vmax -102vmax 3px white, -43vmax 147vmax 3px white, -108vmax 1vmax 1px white, 86vmax -139vmax 2px white, -137vmax -39vmax 0px white, -132vmax 122vmax 3px white, 98vmax -9vmax 3px white, -81vmax -77vmax 1px white, 93vmax 74vmax 3px white, 116vmax -118vmax 3px white, 61vmax -12vmax 0px white, -102vmax 149vmax 3px white, 69vmax 46vmax 0px white, -98vmax -80vmax 2px white, 27vmax 101vmax 2px white, -104vmax 31vmax 0px white, 23vmax 2vmax 1px white, -4vmax 14vmax 0px white, -59vmax 138vmax 1px white, 6vmax -62vmax 2px white, -46vmax 5vmax 2px white, 131vmax 17vmax 3px white, -76vmax -5vmax 3px white, -120vmax 47vmax 2px white, 118vmax -17vmax 1px white, -148vmax 137vmax 1px white, -139vmax -79vmax 2px white, 19vmax -99vmax 2px white, 85vmax 103vmax 3px white, -36vmax 108vmax 1px white, -132vmax -37vmax 0px white, 126vmax 121vmax 3px white, -49vmax -134vmax 2px white, 73vmax 89vmax 2px white, 79vmax -67vmax 2px white, 100vmax -79vmax 3px white, -23vmax 89vmax 3px white, -124vmax 87vmax 0px white, -47vmax -100vmax 1px white, 76vmax 80vmax 3px white, 59vmax -125vmax 3px white, 93vmax -146vmax 2px white, 15vmax -77vmax 2px white, 149vmax 98vmax 1px white, 48vmax 105vmax 3px white, 99vmax 72vmax 1px white, -117vmax -39vmax 1px white, 44vmax 109vmax 1px white, -102vmax -16vmax 2px white, 94vmax 133vmax 3px white, -136vmax 25vmax 0px white, 142vmax 71vmax 3px white, 142vmax -127vmax 1px white, 4vmax -19vmax 3px white, 87vmax 101vmax 1px white, -12vmax 82vmax 0px white, 30vmax -91vmax 0px white, -48vmax 16vmax 3px white, 35vmax -65vmax 0px white, 60vmax -83vmax 2px white, -121vmax 136vmax 1px white, -47vmax 34vmax 3px white, -149vmax -95vmax 0px white, 63vmax 83vmax 2px white, 41vmax -60vmax 3px white, -108vmax 142vmax 2px white, 2vmax -140vmax 3px white, 122vmax -104vmax 2px white, -83vmax 40vmax 3px white, 91vmax -41vmax 2px white, 125vmax 90vmax 3px white, -45vmax 68vmax 1px white, -77vmax 0vmax 3px white, 10vmax -34vmax 3px white, 39vmax 82vmax 2px white, 128vmax 77vmax 0px white, -77vmax 7vmax 2px white, -34vmax -136vmax 0px white, -12vmax -10vmax 0px white, 52vmax -149vmax 3px white, 23vmax 143vmax 0px white, 57vmax 96vmax 1px white, 110vmax 143vmax 3px white, 67vmax 51vmax 2px white, -113vmax -2vmax 1px white, -130vmax 95vmax 3px white, 65vmax -139vmax 2px white, -18vmax 21vmax 3px white, -128vmax 142vmax 0px white, -119vmax 96vmax 3px white, -9vmax 129vmax 0px white, 58vmax 28vmax 1px white, -32vmax -65vmax 1px white, -4vmax 13vmax 2px white, -93vmax 88vmax 2px white, 123vmax -20vmax 2px white, -38vmax -106vmax 2px white, 124vmax 7vmax 2px white, 19vmax 5vmax 3px white, 71vmax 112vmax 3px white, 103vmax -126vmax 1px white, 79vmax -136vmax 0px white, 0vmax -86vmax 1px white, 129vmax -76vmax 0px white, -144vmax -40vmax 0px white, 92vmax 80vmax 0px white, 35vmax 41vmax 0px white, 20vmax 114vmax 1px white, -76vmax -82vmax 0px white, 110vmax 121vmax 3px white, -22vmax -2vmax 0px white, -1vmax 21vmax 1px white, 58vmax 130vmax 3px white, -129vmax 129vmax 1px white, 21vmax -30vmax 1px white, 82vmax 6vmax 2px white, 65vmax 21vmax 1px white, -139vmax 144vmax 0px white, -97vmax 19vmax 0px white, 118vmax -79vmax 1px white, -127vmax 115vmax 1px white, -148vmax -141vmax 1px white, -88vmax -38vmax 2px white, 138vmax -11vmax 3px white, 33vmax -15vmax 0px white, 51vmax 61vmax 0px white, 66vmax 112vmax 2px white, 30vmax 65vmax 0px white, -114vmax 31vmax 2px white, 80vmax -60vmax 3px white, 34vmax 13vmax 1px white, 6vmax 128vmax 2px white, -19vmax 47vmax 3px white, -87vmax -91vmax 2px white, -90vmax -90vmax 1px white, -109vmax -20vmax 3px white, 115vmax -66vmax 1px white, 14vmax -29vmax 3px white, 106vmax 72vmax 0px white, 54vmax 98vmax 3px white, -147vmax -112vmax 3px white, 99vmax 57vmax 3px white, -27vmax 36vmax 3px white, 104vmax -85vmax 2px white, 24vmax 4vmax 2px white, 30vmax -23vmax 0px white, -23vmax 84vmax 0px white, -88vmax 15vmax 2px white, -18vmax 12vmax 2px white, 108vmax -117vmax 3px white, -26vmax 26vmax 1px white, 144vmax -78vmax 2px white, -64vmax -102vmax 1px white, 110vmax -143vmax 3px white, -120vmax 29vmax 2px white, 118vmax 147vmax 1px white, -69vmax -96vmax 1px white, -146vmax 138vmax 3px white, 32vmax -17vmax 3px white, -48vmax -82vmax 2px white, 123vmax 54vmax 3px white, 21vmax 114vmax 2px white, 28vmax 119vmax 1px white, 104vmax -7vmax 2px white, 97vmax 80vmax 2px white, -55vmax 83vmax 1px white, 80vmax -133vmax 0px white, 6vmax -80vmax 1px white, 5vmax -61vmax 0px white, 26vmax 82vmax 3px white, 118vmax 82vmax 0px white, 40vmax 15vmax 3px white, -122vmax -66vmax 2px white, 126vmax -92vmax 3px white, -5vmax 66vmax 2px white, -93vmax -91vmax 0px white, 36vmax 100vmax 3px white, -107vmax -28vmax 1px white, -9vmax 94vmax 3px white, 146vmax 77vmax 0px white, -128vmax -123vmax 1px white, 59vmax 66vmax 1px white, 34vmax -48vmax 2px white, -60vmax 2vmax 3px white, 37vmax 46vmax 3px white, -75vmax -129vmax 1px white, 89vmax 128vmax 1px white, 114vmax 70vmax 1px white, -80vmax 51vmax 2px white, -6vmax 145vmax 3px white, -78vmax 64vmax 3px white;
+    text-shadow: -12vmax 78vmax 2px white, -102vmax 38vmax 2px white, -22vmax 8vmax 2px white, 0px 0px white, -122vmax 58vmax 2px white, 59vmax -38vmax 0px white, -125vmax -25vmax 2px white, -2vmax 0vmax 2px white, -80vmax 53vmax 3px white, 19vmax -137vmax 0px white, -24vmax 99vmax 0px white, -112vmax 121vmax 0px white, 112vmax 22vmax 3px white, -26vmax -115vmax 1px white, -146vmax 94vmax 3px white, 113vmax -13vmax 3px white, 78vmax -83vmax 0px white, 144vmax 76vmax 3px white, 109vmax -12vmax 1px white, -16vmax 60vmax 2px white, -47vmax -40vmax 3px white, -43vmax -113vmax 3px white, -33vmax -107vmax 2px white, -115vmax -32vmax 1px white, -97vmax 141vmax 0px white, 135vmax 1vmax 2px white, -59vmax 3vmax 1px white, 125vmax 134vmax 2px white, -14vmax -140vmax 1px white, 49vmax -148vmax 2px white, -62vmax -77vmax 1px white, -60vmax 123vmax 2px white, -131vmax 78vmax 0px white, -43vmax 95vmax 2px white, -99vmax 80vmax 2px white, 70vmax 31vmax 3px white, 44vmax -58vmax 0px white, -35vmax -130vmax 0px white, -77vmax 69vmax 3px white, 0vmax 130vmax 1px white, -98vmax 25vmax 2px white, 84vmax -59vmax 2px white, 138vmax -7vmax 1px white, 92vmax -82vmax 1px white, 66vmax -134vmax 3px white, 123vmax -131vmax 3px white, -55vmax -100vmax 0px white, -141vmax 141vmax 2px white, -26vmax 150vmax 2px white, -124vmax -72vmax 2px white, -6vmax -71vmax 1px white, -18vmax 74vmax 1px white, 77vmax -37vmax 0px white, -45vmax -7vmax 3px white, -16vmax 21vmax 3px white, -38vmax 100vmax 1px white, -20vmax 13vmax 3px white, -9vmax -39vmax 2px white, 5vmax 32vmax 0px white, 82vmax 88vmax 1px white, 105vmax 106vmax 2px white, -123vmax -73vmax 0px white, 111vmax 103vmax 1px white, 28vmax 44vmax 3px white, -13vmax -87vmax 0px white, -141vmax -39vmax 2px white, 143vmax -121vmax 3px white, -133vmax 22vmax 0px white, -140vmax -56vmax 2px white, 92vmax -143vmax 0px white, -100vmax 46vmax 2px white, 131vmax -39vmax 2px white, 120vmax 58vmax 1px white, 139vmax -68vmax 1px white, 128vmax 37vmax 0px white, -137vmax -103vmax 1px white, 83vmax -56vmax 0px white, 137vmax 116vmax 2px white, -43vmax 125vmax 0px white, -40vmax -15vmax 2px white, 42vmax 101vmax 2px white, 149vmax -137vmax 3px white, 104vmax -148vmax 0px white, -65vmax 19vmax 2px white, 48vmax 78vmax 3px white, -63vmax 28vmax 1px white, 94vmax -129vmax 1px white, -27vmax 108vmax 0px white, -11vmax 67vmax 1px white, 114vmax 18vmax 2px white, 59vmax 96vmax 1px white, -46vmax -6vmax 1px white, 4vmax 28vmax 0px white, -116vmax -63vmax 1px white, 87vmax -62vmax 2px white, -27vmax 111vmax 1px white, 36vmax -51vmax 3px white, 9vmax -51vmax 3px white, 53vmax -111vmax 0px white, 22vmax -146vmax 0px white, -115vmax -131vmax 2px white, -146vmax 31vmax 0px white, 129vmax 2vmax 0px white, 106vmax 76vmax 2px white, -121vmax 106vmax 2px white, 55vmax -40vmax 1px white, -3vmax 70vmax 1px white, 55vmax -117vmax 1px white, -109vmax 1vmax 2px white, 5vmax 37vmax 0px white, -103vmax -86vmax 1px white, 78vmax 52vmax 3px white, -45vmax -142vmax 0px white, 113vmax -102vmax 3px white, -43vmax 147vmax 3px white, -108vmax 1vmax 1px white, 86vmax -139vmax 2px white, -137vmax -39vmax 0px white, -132vmax 122vmax 3px white, 98vmax -9vmax 3px white, -81vmax -77vmax 1px white, 93vmax 74vmax 3px white, 116vmax -118vmax 3px white, 61vmax -12vmax 0px white, -102vmax 149vmax 3px white, 69vmax 46vmax 0px white, -98vmax -80vmax 2px white, 27vmax 101vmax 2px white, -104vmax 31vmax 0px white, 23vmax 2vmax 1px white, -4vmax 14vmax 0px white, -59vmax 138vmax 1px white, 6vmax -62vmax 2px white, -46vmax 5vmax 2px white, 131vmax 17vmax 3px white, -76vmax -5vmax 3px white, -120vmax 47vmax 2px white, 118vmax -17vmax 1px white, -148vmax 137vmax 1px white, -139vmax -79vmax 2px white, 19vmax -99vmax 2px white, 85vmax 103vmax 3px white, -36vmax 108vmax 1px white, -132vmax -37vmax 0px white, 126vmax 121vmax 3px white, -49vmax -134vmax 2px white, 73vmax 89vmax 2px white, 79vmax -67vmax 2px white, 100vmax -79vmax 3px white, -23vmax 89vmax 3px white, -124vmax 87vmax 0px white, -47vmax -100vmax 1px white, 76vmax 80vmax 3px white, 59vmax -125vmax 3px white, 93vmax -146vmax 2px white, 15vmax -77vmax 2px white, 149vmax 98vmax 1px white, 48vmax 105vmax 3px white, 99vmax 72vmax 1px white, -117vmax -39vmax 1px white, 44vmax 109vmax 1px white, -102vmax -16vmax 2px white, 94vmax 133vmax 3px white, -136vmax 25vmax 0px white, 142vmax 71vmax 3px white, 142vmax -127vmax 1px white, 4vmax -19vmax 3px white, 87vmax 101vmax 1px white, -12vmax 82vmax 0px white, 30vmax -91vmax 0px white, -48vmax 16vmax 3px white, 35vmax -65vmax 0px white, 60vmax -83vmax 2px white, -121vmax 136vmax 1px white, -47vmax 34vmax 3px white, -149vmax -95vmax 0px white, 63vmax 83vmax 2px white, 41vmax -60vmax 3px white, -108vmax 142vmax 2px white, 2vmax -140vmax 3px white, 122vmax -104vmax 2px white, -83vmax 40vmax 3px white, 91vmax -41vmax 2px white, 125vmax 90vmax 3px white, -45vmax 68vmax 1px white, -77vmax 0vmax 3px white, 10vmax -34vmax 3px white, 39vmax 82vmax 2px white, 128vmax 77vmax 0px white, -77vmax 7vmax 2px white, -34vmax -136vmax 0px white, -12vmax -10vmax 0px white, 52vmax -149vmax 3px white, 23vmax 143vmax 0px white, 57vmax 96vmax 1px white, 110vmax 143vmax 3px white, 67vmax 51vmax 2px white, -113vmax -2vmax 1px white, -130vmax 95vmax 3px white, 65vmax -139vmax 2px white, -18vmax 21vmax 3px white, -128vmax 142vmax 0px white, -119vmax 96vmax 3px white, -9vmax 129vmax 0px white, 58vmax 28vmax 1px white, -32vmax -65vmax 1px white, -4vmax 13vmax 2px white, -93vmax 88vmax 2px white, 123vmax -20vmax 2px white, -38vmax -106vmax 2px white, 124vmax 7vmax 2px white, 19vmax 5vmax 3px white, 71vmax 112vmax 3px white, 103vmax -126vmax 1px white, 79vmax -136vmax 0px white, 0vmax -86vmax 1px white, 129vmax -76vmax 0px white, -144vmax -40vmax 0px white, 92vmax 80vmax 0px white, 35vmax 41vmax 0px white, 20vmax 114vmax 1px white, -76vmax -82vmax 0px white, 110vmax 121vmax 3px white, -22vmax -2vmax 0px white, -1vmax 21vmax 1px white, 58vmax 130vmax 3px white, -129vmax 129vmax 1px white, 21vmax -30vmax 1px white, 82vmax 6vmax 2px white, 65vmax 21vmax 1px white, -139vmax 144vmax 0px white, -97vmax 19vmax 0px white, 118vmax -79vmax 1px white, -127vmax 115vmax 1px white, -148vmax -141vmax 1px white, -88vmax -38vmax 2px white, 138vmax -11vmax 3px white, 33vmax -15vmax 0px white, 51vmax 61vmax 0px white, 66vmax 112vmax 2px white, 30vmax 65vmax 0px white, -114vmax 31vmax 2px white, 80vmax -60vmax 3px white, 34vmax 13vmax 1px white, 6vmax 128vmax 2px white, -19vmax 47vmax 3px white, -87vmax -91vmax 2px white, -90vmax -90vmax 1px white, -109vmax -20vmax 3px white, 115vmax -66vmax 1px white, 14vmax -29vmax 3px white, 106vmax 72vmax 0px white, 54vmax 98vmax 3px white, -147vmax -112vmax 3px white, 99vmax 57vmax 3px white, -27vmax 36vmax 3px white, 104vmax -85vmax 2px white, 24vmax 4vmax 2px white, 30vmax -23vmax 0px white, -23vmax 84vmax 0px white, -88vmax 15vmax 2px white, -18vmax 12vmax 2px white, 108vmax -117vmax 3px white, -26vmax 26vmax 1px white, 144vmax -78vmax 2px white, -64vmax -102vmax 1px white, 110vmax -143vmax 3px white, -120vmax 29vmax 2px white, 118vmax 147vmax 1px white, -69vmax -96vmax 1px white, -146vmax 138vmax 3px white, 32vmax -17vmax 3px white, -48vmax -82vmax 2px white, 123vmax 54vmax 3px white, 21vmax 114vmax 2px white, 28vmax 119vmax 1px white, 104vmax -7vmax 2px white, 97vmax 80vmax 2px white, -55vmax 83vmax 1px white, 80vmax -133vmax 0px white, 6vmax -80vmax 1px white, 5vmax -61vmax 0px white, 26vmax 82vmax 3px white, 118vmax 82vmax 0px white, 40vmax 15vmax 3px white, -122vmax -66vmax 2px white, 126vmax -92vmax 3px white, -5vmax 66vmax 2px white, -93vmax -91vmax 0px white, 36vmax 100vmax 3px white, -107vmax -28vmax 1px white, -9vmax 94vmax 3px white, 146vmax 77vmax 0px white, -128vmax -123vmax 1px white, 59vmax 66vmax 1px white, 34vmax -48vmax 2px white, -60vmax 2vmax 3px white, 37vmax 46vmax 3px white, -75vmax -129vmax 1px white, 89vmax 128vmax 1px white, 114vmax 70vmax 1px white, -80vmax 51vmax 2px white, -6vmax 145vmax 3px white, -78vmax 64vmax 3px white;
     animation: snow 100s linear 0s infinite normal;
 }
 
@@ -24,162 +24,923 @@ body{
     0% {
         transform: rotate(0deg);
     }
-        100% {
+
+    100% {
         transform: rotate(360deg);
     }
 }
+
 .ground {
     height: 200px;
     width: 100%;
     background: white;
-    bottom:0%;
+    bottom: 0%;
     position: fixed;
 }
 
-.gro{
+.gro {
     background: grey;
     width: 100%;
     height: 30px;
 }
 
 
-.car::after, .car::before {
-  content: '';
-  position: absolute;
-  background: #2f2546;
-  width: 10px;
-  height: 10px;
-  bottom: -8px;
-  left: 20%;
-  border-radius: 50%;
-          animation: car_c_shake 0.6s 4;
-}
-.car::after {
-  left: 70%;
-}
-.car .up {
-  position: absolute;
-  background: #2f2546;
-  width: 50%;
-  height: 15px;
-  bottom: 100%;
-  left: 30%;
-  border-radius: 10px 20px 0px 0px;
-}
-@keyframes car_shake {
-  0% {
-    bottom: 186px;
-  }
-  50% {
-    bottom: 189px;
-  }
-  100% {
-    bottom: 186px;
-  }
-}
-@keyframes car_c_shake {
-  0% {
-    bottom: -5px;
-  }
-  50% {
+.car::after,
+.car::before {
+    content: '';
+    position: absolute;
+    background: #2f2546;
+    width: 10px;
+    height: 10px;
     bottom: -8px;
-  }
-  100% {
-    bottom: -5px;
-  }
+    left: 20%;
+    border-radius: 50%;
+    animation: car_c_shake 0.6s 4;
 }
+
+.car::after {
+    left: 70%;
+}
+
+.car .up {
+    position: absolute;
+    background: #2f2546;
+    width: 50%;
+    height: 15px;
+    bottom: 100%;
+    left: 30%;
+    border-radius: 10px 20px 0px 0px;
+}
+
+@keyframes car_shake {
+    0% {
+        bottom: 186px;
+    }
+
+    50% {
+        bottom: 189px;
+    }
+
+    100% {
+        bottom: 186px;
+    }
+}
+
+@keyframes car_c_shake {
+    0% {
+        bottom: -5px;
+    }
+
+    50% {
+        bottom: -8px;
+    }
+
+    100% {
+        bottom: -5px;
+    }
+}
+
 @keyframes car_pos {
-  0% {
-    right: 2000px;
-  }
-  50% {
-            transform: scaleX(1);
-right: -80px;
-  }
+    0% {
+        right: 2000px;
+    }
+
+    50% {
+        transform: scaleX(1);
+        right: -80px;
+    }
+
     51% {
-            transform: scaleX(-1);
-  }
-  100% {
-    right: 2000px;
-            transform: scaleX(-1);
-  }
+        transform: scaleX(-1);
+    }
+
+    100% {
+        right: 2000px;
+        transform: scaleX(-1);
+    }
 }
+
 .car {
     z-index: 99999;
-  position: absolute;
-  width: 60px;
-  height: 15px;
-  background: #2f2546;
-          animation: car_shake 0.6s infinite, car_pos 30s infinite;
-          animation-timing-function: linear;
-  border-radius: 2px 10px 5px 5px;
-  animation-fill-mode: forwards;
-  box-sizing: border-box;
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    background: #2f2546;
+    animation: car_shake 0.6s infinite, car_pos 30s infinite;
+    animation-timing-function: linear;
+    border-radius: 2px 10px 5px 5px;
+    animation-fill-mode: forwards;
+    box-sizing: border-box;
 }
+
 .wra {
     position: absolute;
     top: 400px;
     height: 200px;
     width: 100%;
 }
-.house{
-    background-color: #e8d98f;
-    height: 150px;
-    width: 100px;
-    margin: 0;
-}
-.window{
-    background-color: #ACBCBA;
-    width: 35px;
+
+.window {
+    background-color: #C4CDC9;
+    width: 15px;
+    border: 2px solid white;
     height: 30px;
-    margin: 15% 6% 0% 6%;
+    margin: 15% 5% 0% 5%;
     display: inline-block;
     position: relative;
+    top: -40px
 }
+
 .door {
-    height: 50px;
-    width: 27px;
-    background-color: #543e1c;
+    height: 40px;
+    width: 18px;
+    background-color: #543816;
+    border: 5px solid #12232D;
     float: right;
-    top: 100%;
-    margin-right: 10px;
+    position: relative;
+    margin-right: 7px;
+    top: -20px
 }
 
 .roof {
     left: -20px;
     position: relative;
-    border-bottom: 40px solid #90624F;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #454948;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     height: 0px;
     width: 30px;
+    top: -40px;
 }
+
+.chimney {
+    background-color: #1c282d;
+    width: 10px;
+    height: 20px;
+    top: -10px;
+    position: absolute;
+}
+
 .row {
     width: 100%;
-    top:50%;
+    top: 50%;
     position: relative;
     background-color: white;
     height: 1px;
 }
-.fonta{
+
+.fonta {
     font-size: 100px;
     font-family: "Comic Sans MS", cursive, sans-serif;
     margin: 50px;
     transform: rotate(-7deg);
-  color: #992c2c;
-  text-shadow:
-               0 -5px 2px white
+    color: #992c2c;
+    text-shadow: 0 -5px 2px white
 }
-.mid{
+
+.mid {
     margin-left: 500px;
 }
-.house1{
-    background-color: black;
-    height: 100%;
-    width: 200px;
+
+.house1 {
+    background-color: #6E6154;
+    top: 40px;
+    height: 150px;
+    width: 120px;
     position: relative;
-    top: -100px;
     margin: 0;
-    left: 100px;
     float: left;
+    display: inline-block;
+}
+
+.house {
+    background-color: #883A30;
+    display: inline-block;
+    position: relative;
+    height: 180px;
+    width: 100px;
+    margin: 0;
+    float: left;
+    top: 20px;
+}
+
+.roof1 {
+    position: relative;
+    display: inline-block;
+    float: left;
+    border-bottom: 30px solid #280613;
+    border-left: 20px solid transparent;
+    border-right: 10px solid transparent;
+    height: 50px;
+    width: 90px;
+    top: -80px;
+}
+
+.window1 {
+    width: 10px;
+    height: 30px;
+    margin: 3px;
+    position: relative;
+    top: -70px;
+    float: left;
+    background-color: #C4CDC9;
+    border: 2px solid #280613;
+    display: inline-block;
+}
+
+.window113 {
+    top: -70px;
+    background-color: #C4CDC9;
+    border: 2px solid #280613;
+    display: inline-block;
+    position: relative;
+    margin: 2px;
+    width: 35px;
+    height: 30px;
+}
+
+.door1 {
+    top: -50px;
+    position: relative;
+    height: 40px;
+    width: 15px;
+    left: 0px;
+    background-color: #280613;
+    border: 5px solid #12232D;
+    display: inline-block;
+}
+
+.house2 {
+    width: 80px;
+    background-color: #9b7c45;
+    display: inline-block;
+    position: relative;
+    height: 210px;
+    margin: 0;
+    top: -20px;
+    float: left;
+}
+
+.roof2 {
+    background: #563e27;
+    display: inline-block;
+    height: 35px;
+    position: relative;
+    width: 80px;
+}
+
+.roof2:before {
+    border-bottom: 35px solid #563e27;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: -35px;
+    width: 0;
+}
+.circle{
+    width: 20px;
+    height: 40px;
+    margin: auto;
+    top:-17px;
+    border: 2px solid #1c282d;
+    position: relative;
+    border-radius: 50%;
+    background-color: #C2CBC5;
+}
+.window2{
+    width: 15px;
+    height: 25px;
+    display: inline-block;
+    float: left;
+    background-color: #C3CCC7;
+    border: 1px solid #676684;
+    margin: 8px 2.5px 8px 2px;
+}
+.window22{
+    width: 30px;
+    height: 35px;
+    display: inline-block;
+    float: left;
+    background-color: #C3CCC7;
+    border: 1px solid #676684;
+    margin: 2px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.gate1{
+    width: 30px;
+    height: 50px;
+    border: .5px solid black;
+    background-color: #3d2e14;
+    display: inline-block;
+    position: relative;
+    float: left;
+    left: 9px;
+}
+.gate{
+    width: 30px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: #3d2e14;
+    display: inline-block;
+    position: relative;
+    left: 9px;
+    float: left;
+}
+
+.house3{
+    background-color: #1b2b20;
+    display: inline-block;
+    width: 90px;
+    height: 190px;
+    float: left;
+}
+.roof3{
+    width: 40px;
+    height: 45px;
+    background-color: #7f783f;
+    position: relative;
+    left: 25px;
+    top:-63px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.roof34{
+    background-color: #a1c4c3;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 20px;
+    height: 25px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.roof33{
+    position: relative;
+    display: inline-block;
+    float: left;
+    border-bottom: 30px solid #7f783f;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    height: 0px;
+    width: 50px;
+    top: -73px;
+}
+.window3{
+    display: inline-block;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top: 8px solid #7f783f;
+    top:-60px;
+    position: relative;
+    width: 18px;
+    height: 35px;
+    margin: 4.5px;
+    background-color: #a1c4c3;
+}
+.house4{
+    background-color: #b2860c;
+    width: 140px;
+    top:30px;
+    position: relative;
+    height: 160px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.window4{
+    width: 25px;
+    height: 30px;
+    display: inline-block;
+    float: left;
+    position: relative;
+    border-top: 7px solid #2c4413;
+    border-bottom: 7px solid #2c4413;
+    margin:0px 10px;
+    background-color: #ceefeb;
+}
+.line4{
+    background-color: #2c4413;
+    width: 100%;
+    margin: auto;
+    height: 2px;
+    position: absolute;
+    top: 10px;
+}
+.line44{
+    background-color: #2c4413;
+    width: 28px;
+    height: 2px;
+    position: relative;
+    top: 14px;
+    transform: rotate(90deg);
+}
+.roof4 {
+    position: absolute;
+    display: inline-block;
+    float: left;
+    left: -2.7px;
+    border-bottom: 30px solid #112103;
+    border-left: 36px solid transparent;
+    border-right: 36px solid transparent;
+    height: 50px;
+    width: 90px;
+    top: -80px;
+}
+
+
+.house5{
+    background-color: #103a37;
+    width: 100px;
+    position: relative;
+    height: 190px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.window5{
+    background-color: #A3C3C1;
+    border: 1px solid brown;
+    width: 10px;
+    height: 40px;
+    margin: 10px 2px 1px 2px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    display: inline-block;
+    float: left;
+}
+.door5{
+    top:30px;
+    position: relative;
+    width: 20px;
+    height: 38px;
+    border: 6px solid #662e18;
+    background-color: #352811;
+    display: inline-block;
+    float: left;
+}
+.roof5 {
+    position: absolute;
+    display: inline-block;
+    float: left;
+    left: -6px;
+    border-bottom: 50px solid #662e18;
+    border-left: 60px solid transparent;
+    border-right: 50px solid transparent;
+    height: 30px;
+    width: 20px;
+    top: -80px;
+}
+.chimney5 {
+    background-color: #1c282d;
+    width: 10px;
+    height: 20px;
+    left: -10px;
+    top: 24px;
+    position: absolute;
+}
+
+
+.house6{
+    background-color: #ba5c44;
+    width: 77px;
+    top: -72px;
+    position: relative;
+    height: 230px;
+    float: left;
+    margin: 0;
+    padding: 12px;
+    border-top: 12px solid #4c2e36;
+    display: inline-block;
+}
+.window6 {
+    background-color: #C4CDC9;
+    width: 15px;
+    border: 2px solid black;
+    height: 30px;
+    float: left;
+    margin: 15% 4% 0% 4%;
+    display: inline-block;
+    position: relative;
+    top: -10px
+}
+.row6 {
+    width: 100%;
+    top: 50%;
+    position: relative;
+    background-color: black;
+    height: 2px;
+}
+.door6{
+    top:10px;
+    position: relative;
+    width: 20px;
+    height: 38px;
+    border: 3px solid #273d0f;
+    background-color: #0f313d;
+    display: inline-block;
+    float: left;
+}
+
+.house7{
+    background-color: #1f547c;
+    width: 90px;
+    top: -25px;
+    position: relative;
+    height: 190px;
+    float: left;
+    margin: 0;
+    padding: 15px;
+    display: inline-block;
+}
+.window7 {
+    width: 30px;
+    height: 40px;
+    margin: 5px;
+    position: relative;
+    float: left;
+    background-color: #C4CDC9;
+    border: 2px solid #5b1111;
+    display: inline-block;
+}
+.row7{
+    background-color: #5b1111;
+    margin: 6px 0px 6px 0px;
+    position: relative;
+    width: 100%;
+    height: 2px;
+}
+.row77{
+    background-color: #5b1111;
+    position: relative;
+    float: left;
+    width: 2px;
+    height: 100%;
+    top:-38px;
+    margin-left: 8px;
+}
+.door7{
+    left: 30px;
+    position: relative;
+    width: 20px;
+    height: 38px;
+    border: 3px solid #273d0f;
+    background-color: #603b1e;
+    display: inline-block;
+    float: left;
+}
+.roof7 {
+    left: -0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #421510;
+    border-left: 46px solid transparent;
+    border-right: 46px solid transparent;
+    height: 0px;
+    width: 30px;
+    top: -40px;
+}
+
+
+.house8{
+    background-color: #8c6943;
+    width: 80px;
+    top: 35px;
+    position: relative;
+    height: 150px;
+    float: left;
+    margin: 0;
+    padding: 5px;
+    display: inline-block;
+}
+.roof8 {
+    left: -0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #10173a;
+    border-left: 46px solid transparent;
+    border-right: 46px solid transparent;
+    height: 0px;
+    width: 0px;
+    top: -40px;
+}
+.chimney8 {
+    background-color: #1c282d;
+    width: 12px;
+    height: 20px;
+    top: 0px;
+    left: 5px;
+    position: absolute;
+}
+.window8{
+    background-color: #A3C3C1;
+    border: 1px solid brown;
+    width: 10px;
+    height: 30px;
+    margin: 3px 1.5px 1px 1.5px;
+    display: inline-block;
+    float: left;
+}
+.window88{
+    background-color: #A3C3C1;
+    border: 1px solid brown;
+    width: 40px;
+    height: 30px;
+    margin: 3px 1.5px 1px 1.5px;
+    display: inline-block;
+    float: left;
+}
+.door8{
+    top:3px;
+    position: relative;
+    width: 20px;
+    height: 38px;
+    border: 2px solid #662e18;
+    background-color: #352811;
+    display: inline-block;
+    left: 5px;
+}
+
+
+.house9{
+    background-color: #593939;
+    width: 100px;
+    top: -20px;
+    position: relative;
+    height: 200px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.roof9 {
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #2d1515;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    height: 0px;
+    width: 60px;
+    top: -40px;
+}
+.door9{
+    top:-7px;
+    position: relative;
+    width: 20px;
+    height: 38px;
+    border: 2px solid #662e18;
+    background-color: #2d1515;
+    display: inline-block;
+    left: 5px;
+}
+.window9 {
+    background-color: #C4CDC9;
+    width: 15px;
+    border: 2px solid #122b10;
+    height: 30px;
+    margin: 15% 5% 0% 5%;
+    display: inline-block;
+    position: relative;
+    border-top-right-radius: 30%;
+    border-top-left-radius: 30%;
+    top: -20px
+}
+.row9 {
+    width: 100%;
+    top: 50%;
+    position: relative;
+    background-color: #122b10;
+    height: 1px;
+}
+
+.house10{
+    background-color: #122b10;
+    width: 80px;
+    top: 5px;
+    position: relative;
+    height: 165px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.roof10 {
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #897e7e;
+    border-left: 10px solid transparent;
+    border-right: 30px solid transparent;
+    height: 0px;
+    width: 60px;
+    top: -40px;
+}
+.door10{
+    top:7px;
+    position: relative;
+    width: 20px;
+    height: 45px;
+    border: 2px solid #662e18;
+    background-color: #102033;
+    display: inline-block;
+    left: 10px;
+}
+.window10{
+    left: 5px;
+    width: 25px;
+    height: 30px;
+    display: inline-block;
+    float: left;
+    position: relative;
+    margin:5px;
+    background-color: #ceefeb;
+}
+.line10{
+    background-color: #2c4413;
+    width: 100%;
+    margin: auto;
+    height: 2px;
+    position: absolute;
+    top: 15px;
+}
+.line1010{
+    background-color: #2c4413;
+    width: 2px;
+    height: 100%;
+    position: relative;
+    left: 12px;
+}
+
+
+.house11{
+    background-color: brown;
+    width: 119px;
+    top: 45px;
+    position: relative;
+    height: 125px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.roof11 {
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 50px solid #2d5b4a;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    height: 0px;
+    width: 60px;
+    left:0px;
+    top: -50px;
+}
+.door11{
+    top:7px;
+    position: relative;
+    width: 20px;
+    height: 45px;
+    border: 2px solid #662e18;
+    background-color: #3d441e;
+    display: inline-block;
+    left: 5px;
+}
+.window11{
+    top: 0px;
+    width: 15px;
+    height: 30px;
+    display: inline-block;
+    float: left;
+    position: relative;
+    margin:5px;
+    background-color: #ceefeb;
+}
+
+
+.house12{
+    background-color: #8c8621;
+    width: 80px;
+    top: 5px;
+    position: relative;
+    height: 165px;
+    float: left;
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+}
+.roof12 {
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 20px solid #330d0d;
+    border-left: 20px solid transparent;
+    border-right: 50px solid transparent;
+    height: 0px;
+    width: 60px;
+    top: -20px;
+}
+.door12{
+    top:2px;
+    position: relative;
+    width: 20px;
+    height: 45px;
+    border: 2px solid #662e18;
+    background-color: #102033;
+    display: inline-block;
+    left: 10px;
+}
+.window12{
+    left: 3px;
+    width: 30px;
+    height: 40px;
+    margin: 1px;
+    position: relative;
+    float: left;
+    background-color: #C4CDC9;
+    border: 2px solid #5b1111;
+    display: inline-block;
+}
+.window1212{
+    left: 3px;
+    width: 15px;
+    height: 40px;
+    margin: 1px;
+    position: relative;
+    float: left;
+    background-color: #C4CDC9;
+    border: 2px solid #5b1111;
+    display: inline-block;
+}
+.window121212{
+    left: 3px;
+    width: 40px;
+    height: 20px;
+    margin: 1px;
+    position: relative;
+    float: left;
+    background-color: #C4CDC9;
+    border: 2px solid #5b1111;
+    display: inline-block;
+}
+
+.tree{
+    position: relative;
+    margin: 0 30px;
+    display: inline-block;
+}
+.first{
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 20px solid #1d3f13;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    height: 0px;
+    width: 0px;
+}
+.second{
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 30px solid #1d3f13;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    height: 0px;
+    width: 0px;
+}
+.third{
+    left: 0px;
+    position: absolute;
+    display: inline-block;
+    float: left;
+    border-bottom: 40px solid #1d3f13;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    height: 0px;
+    width: 0px;
+}
+.fourth{
+    background-color: #472511;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top:38px;
+    left: 5px;
+    display: inline-block;
+
 }
